@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\thaneing\\WEBGIT\\WEBGIT\\WEBGIT.csproj": {}
+    "D:\\clone\\thaneing\\WEBGIT\\WEBGIT\\WEBGIT.csproj": {}
   },
   "projects": {
-    "D:\\thaneing\\WEBGIT\\WEBGIT\\WEBGIT.csproj": {
+    "D:\\clone\\thaneing\\WEBGIT\\WEBGIT\\WEBGIT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\thaneing\\WEBGIT\\WEBGIT\\WEBGIT.csproj",
+        "projectUniqueName": "D:\\clone\\thaneing\\WEBGIT\\WEBGIT\\WEBGIT.csproj",
         "projectName": "WEBGIT",
-        "projectPath": "D:\\thaneing\\WEBGIT\\WEBGIT\\WEBGIT.csproj",
+        "projectPath": "D:\\clone\\thaneing\\WEBGIT\\WEBGIT\\WEBGIT.csproj",
         "packagesPath": "C:\\Users\\thanyalak_k\\.nuget\\packages\\",
-        "outputPath": "D:\\thaneing\\WEBGIT\\WEBGIT\\obj\\",
+        "outputPath": "D:\\clone\\thaneing\\WEBGIT\\WEBGIT\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
